@@ -1,0 +1,16 @@
+{
+  "name": "mongo_with_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongodb": "^6.18.0",
+    "nodemon": "^3.1.10"
+  }
+}
